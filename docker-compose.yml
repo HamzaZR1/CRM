@@ -1,0 +1,11 @@
+services:
+  zcrm:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    env_file: .env
+    volumes:
+      - zcrm-data:/app/data
+volumes:
+  zcrm-data:
