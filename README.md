@@ -1,4 +1,4 @@
-# ZCRM — COD System
+# ZCRM — COD CRM
 
 **Your own CRM for cash-on-delivery e-commerce.** Own server · your domain · no monthly subscription.
 

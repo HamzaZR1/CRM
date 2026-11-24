@@ -3,7 +3,7 @@ import "./globals.css";
 import { getLang } from "@/lib/i18n";
 
 export const metadata: Metadata = {
-  title: { default: "ZCRM — COD System", template: "%s · ZCRM" },
+  title: { default: "ZCRM — COD CRM", template: "%s · ZCRM" },
   description: "Your own CRM for cash-on-delivery e-commerce: order import, smart assignment, WhatsApp + AI confirmation, shipping, campaigns and net-profit analytics.",
   icons: { icon: "/favicon.svg" },
 };

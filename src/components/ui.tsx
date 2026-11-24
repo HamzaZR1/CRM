@@ -171,7 +171,7 @@ export function Logo({ className, light }: { className?: string; light?: boolean
         <div className={cn("text-lg font-extrabold tracking-tight", light ? "text-white" : "text-slate-900")}>
           z<span className={light ? "text-brand-200" : "text-brand-500"}>crm</span>
         </div>
-        <div className={cn("text-[10px] font-semibold uppercase tracking-[0.18em]", light ? "text-brand-100" : "text-slate-400")}>COD System</div>
+        <div className={cn("text-[10px] font-semibold uppercase tracking-[0.18em]", light ? "text-brand-100" : "text-slate-400")}>COD CRM</div>
       </div>
     </div>
   );

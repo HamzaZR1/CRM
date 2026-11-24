@@ -74,7 +74,7 @@ export default function Landing() {
         <p className="mt-3 text-slate-600">Your data stays yours. Self-host it, brand it, extend it.</p>
         <Link href="/login" className="btn-primary mt-8 px-8 py-3.5 text-base">Start your free trial</Link>
       </section>
-      <footer className="border-t border-slate-200 py-8 text-center text-sm text-slate-500">© {new Date().getFullYear()} ZCRM · COD System</footer>
+      <footer className="border-t border-slate-200 py-8 text-center text-sm text-slate-500">© {new Date().getFullYear()} ZCRM · COD CRM</footer>
     </main>
   );
 }
